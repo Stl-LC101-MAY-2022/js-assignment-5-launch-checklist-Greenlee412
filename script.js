@@ -1,4 +1,7 @@
-// Write your JavaScript code here!
+validateInput();
+// Currently works with only validateInput(), but all code is located within that function. If separated into 2 functions, not sure which of these two functions goes first here: validateInput() or formSubmission()
+
+
 
 window.addEventListener("load", function() {
 
